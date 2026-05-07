@@ -21,7 +21,7 @@ Atualmente desenvolvendo projetos práticos de análise de dados para consolidar
 | Projeto | Descrição | Ferramentas |
 |---|---|---|
 | [Limpeza de Dados](./limpeza_dados.py) | Remoção de duplicatas, tratamento de nulos e padronização de dados | Python, Pandas |
-|[Relatorio de vendas](./Relatorio_venda.py) |Análise de vendas com KPIs, cruzamento de planilhas e detecção de inconsistências| Python, Pandas |
+|[Relatorio de vendas](./Relatorio_vendas.py) |Análise de vendas com KPIs, cruzamento de planilhas e detecção de inconsistências| Python, Pandas |
 ---
 
 ## 🎯 Objetivo
